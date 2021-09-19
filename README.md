@@ -24,6 +24,7 @@ Variables random ideas demo.
 
 ## Steps
 Open up [replit.com](https://replit.com), create a new node project, and start writing javascript
+
 ```js
   // 1. variables simple 
   let name = "Ahmad"
@@ -31,11 +32,18 @@ Open up [replit.com](https://replit.com), create a new node project, and start w
   console.log(name)
   console.log(age)
   
-  // 2. 
+  // 2. String concatenation and naming convention
+  let firstName = "Harry"
+  let lastName = "Potter"
+  let fullName = `${firstName} ${lastName}`
+  let birthYear = 1980
+  
+  // 3. Operations inside string 
+  console.log(`I am ${fullName} and I am ${2021 - age} years old`)
 ```
 
 ## Instructor Notes
 
 These are detailed notes written by various instructors. Feel free to use them or write your own.
 
-* [Aziz's Notes](https://github.com/JoinCODED/DEMO-Template/blob/main/aziz.md)
+* [Aziz's Notes](/aziz.md)
