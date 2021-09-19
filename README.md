@@ -23,7 +23,7 @@ Variables random ideas demo.
 
 
 ## Steps
-
+Open up [replit.com](https://replit.com), create a new node project, and start writing javascript
 ```js
   // 1. variables simple 
   let name = "Ahmad"
