@@ -40,6 +40,18 @@ Variables random ideas demo.
   console.log(name)
   console.log(age)
   
+  // show them we can change variables
+  name = "Ali"
+  age = 22
+  console.log(name)
+  console.log(age)
+  
+  
+  // show them we can't change constants after we assign them
+  const pi = 3.14 
+  console.log("Pi is", pi)
+  pi = 55
+  console.log("Pi now is", pi)
   // 2. String concatenation and naming convention
   let firstName = "Harry"
   let lastName = "Potter"
