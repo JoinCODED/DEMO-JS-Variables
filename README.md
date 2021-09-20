@@ -52,6 +52,8 @@ Variables random ideas demo.
   console.log("Pi is", pi)
   pi = 55
   console.log("Pi now is", pi)
+  
+  
   // 2. String concatenation and naming convention
   let firstName = "Harry"
   let lastName = "Potter"
