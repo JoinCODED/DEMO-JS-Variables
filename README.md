@@ -23,7 +23,15 @@ Variables random ideas demo.
 
 
 ## Steps
-Open up [replit.com](https://replit.com), create a new node project, and start writing javascript
+- Open a new folder on Desktop call it variables-intro
+- Install shell from code `cmd + p` `type shell`
+- `code .`
+- make a new file `index.js`
+- write down the demo 
+- open terminal in VSCode 
+- `pwd` make sure you are in the right working directory
+- `node index.js`
+
 
 ```js
   // 1. variables simple 
