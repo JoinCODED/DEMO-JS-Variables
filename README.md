@@ -64,8 +64,4 @@ Variables random ideas demo.
   console.log(`I am ${fullName} and I am ${2021 - age} years old`)
 ```
 
-## Instructor Notes
 
-These are detailed notes written by various instructors. Feel free to use them or write your own.
-
-* [Aziz's Notes](/aziz.md)
